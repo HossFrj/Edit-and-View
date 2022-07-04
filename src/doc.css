@@ -1,0 +1,21 @@
+.document-wrapper {
+    width: 600px;
+    height: 400px;
+    display: block;
+}
+
+.document-toolbar {
+}
+
+.document-editor {
+    border: 1px solid #f1f1f1;
+    height: 200px;
+}
+
+.document-viewer {
+    border: 1px solid #f1f1f1;
+}
+
+.document-viewer .rdw-editor-main pre {
+    background: none;
+}
